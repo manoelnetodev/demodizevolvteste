@@ -1,0 +1,16 @@
+{
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "36276604-9f26-490a-a583-2b47bdd2dcc3",
+        "name": "Date",
+        "designId": "139d8dc3-15ff-4663-94d1-928e16136392",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {}
+    },
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "08bbc7f6-97b4-490c-be43-97bb7c929dfc",
+        "name": "Charts",
+        "designId": "139d8dc3-15ff-4663-94d1-928e16136392",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
+    }
+}
